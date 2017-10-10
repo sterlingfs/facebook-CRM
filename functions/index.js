@@ -3,8 +3,8 @@ const verify_token = 'random_string';
 const admin = require('firebase-admin');
 const https = require('https');
 
-const APP_ID = '272881716530408';
-const SECRET = '4e76336ebc8f7ee5c169efe02a1e551a';
+const APP_ID = '<your_key>';
+const SECRET = '<your_key>';
 const LEADGEN = 'leadgen';
 
 // init app
